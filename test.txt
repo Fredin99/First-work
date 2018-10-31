@@ -3,7 +3,9 @@
 <body>
 
 <h1>Detta är min första hemsida</h1>
+
 <h2>Denna rad är bra</h2>
+
 <p>Det är kallt ute.</p>
 
 </body>
