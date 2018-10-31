@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h1>Detta är min första hemsida</h1>
-
-<p>Det är kallt ute.</p>
+<h1>Detta Ã¤r min fÃ¶rsta hemsida</h1>
+<h2>Denna rad Ã¤r ny</h2>
+<p>Det Ã¤r kallt ute.</p>
 
 </body>
 </html>
